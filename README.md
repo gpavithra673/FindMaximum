@@ -48,8 +48,8 @@ def max_marks(list1):
 
 ## Output:
 ![output](defmax.png)
-![output](sort.png)
-![output](for_if.png)
+![output](sortof.PNG)
+![output](forif.PNG)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
